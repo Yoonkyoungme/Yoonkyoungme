@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+**name**: 김윤경
+**major**: Global Business & Technology
+**double major**: Artificial Intelligence Convergence(Software&AI)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
