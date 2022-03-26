@@ -1,5 +1,7 @@
 **name**: 김윤경
+
 **major**: Global Business & Technology
+
 **double major**: Artificial Intelligence Convergence(Software&AI)
 
 
