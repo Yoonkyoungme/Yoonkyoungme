@@ -1,13 +1,14 @@
-### Hi there 👋
+**name**: 김윤경
+**major**: Global Business & Technology
+**double major**: Artificial Intelligence Convergence(Software&AI)
+
 
 <!--
 **Yoonkyoungme/Yoonkyoungme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-**name**: 김윤경
-**major**: Global Business & Technology
-**double major**: Artificial Intelligence Convergence(Software&AI)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
